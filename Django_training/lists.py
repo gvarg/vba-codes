@@ -27,6 +27,7 @@ print(mylist)
 item=mylist.pop()
 
 print(item)
+
 print(mylist)
 
 item=mylist.pop(0) #adding indexes
